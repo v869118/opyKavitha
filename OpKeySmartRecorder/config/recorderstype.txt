@@ -1,0 +1,12 @@
+{
+   "recorderoptions": [
+     {
+       "Name": "Normal Recording",
+       "Description": "Recorder Option to Record in Normal Mode"
+     },
+     {
+       "Name": "Salesforce Recording",
+       "Description": "Recorder Option to Record in Salesforce Mode"
+     }
+   ]
+}

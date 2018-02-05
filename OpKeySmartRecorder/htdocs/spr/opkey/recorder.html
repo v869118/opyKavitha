@@ -1,0 +1,24 @@
+<html>
+<head>
+	<script type="text/javascript" src="sahi.js"></script>	
+</head>
+<body>
+	<input type="text"  size="35" id="record-url" value=""/>
+	<select id="record-browser">
+	  <option value="firefox" selected="selected">Firefox</option>
+	  <option value="ie">IE</option>
+	  <option value="chrome">Chrome</option>
+	  <option value="safari">Safari</option>
+	  <option value="opera">Opera</option>
+	</select>
+	<input type="button" id="record"  value="Record" onclick="startRecording()"/>
+	<br><br>
+	<input type="button" id="record" value="Recorded Steps" onclick="getRecordedSteps()"/>
+	<input type="text" id="parentEl" size="25" value=""/>
+	<input type="button" id="setAnchor" value="Set Anchor" onclick="setAnchor()"/>
+	<input type="button" id="lastIdentifiedEl" value="Last Identified Element" onclick="getLastIdentified()"/><br><br>
+	<textarea id="record-steps" rows="20" cols="150"></textarea>
+	<br><br>
+	<input type="button" id="record" value="Kill" onclick="stopRecording()"/>
+</body>
+</html>

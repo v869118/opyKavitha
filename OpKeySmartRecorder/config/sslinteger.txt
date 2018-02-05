@@ -1,0 +1,1 @@
+"$certgen\create_certificateforIntegerdomain.bat" $domain "$filename" "$filepath" "$keytool" "$certgen" "$userdatacertgen" >> "$userdatacertgen\ssl234.log" 2>&1 

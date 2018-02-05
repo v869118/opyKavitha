@@ -1,0 +1,98 @@
+
+
+
+#IGNOREINOPKEYRECORDERCloseApp{
+position: absolute;
+right: 7px;
+top: 5px;
+height: 18px;
+width: 18px;
+background: #fff;
+text-align: center;
+border-radius: 50%;
+font-size: 11px;
+line-height: 18px;
+color: red;
+cursor: pointer;
+}
+
+#IGNOREINOPKEYRECORDERcompanionbuttonholder{
+overflow: auto;
+max-height: calc(100vh - 100px);
+}
+
+#IGNOREINOPKEYRECORDERbuttonofSAASRECORDER{
+height:25px;
+color: #fff;
+background: #337ab7;
+display: inline-block;
+padding: 0;
+width: 32px;
+height: 30px;
+font-size: 12px;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+touch-action: manipulation;
+cursor: pointer;
+user-select: none;
+border: 1px solid #2e6da4;
+border-radius: 3px;
+margin-right: 4px;
+font-family: arial,sans-serif;
+}
+
+
+#IGNOREINOPKEYRECORDERDIV{
+font-size: 14px;line-height: 20px; color: #FFFFFF;background: #009ce2;margin: 0;padding: 5px 10px;cursor: move;position: relative;padding-right: 35px;
+}
+
+#IGNOREINOPKEYRECORDERBODY{
+padding: 10px; overflow: auto; max-height: calc(100vh - 100px); border-bottom: 1px solid #d6d6d6; background: #fff;
+}
+
+#IGNOREINOPKEYRECORDERHOLDER{
+max-height: 121px;overflow: auto;
+}
+
+#IGNOREINOPKEYRECORDERHEADER{
+background: rgba(232, 104, 65, 0.89); margin: 0; font-size: 14px !important; margin: 0; padding: 6px 8px; color: #fff; border-radius: 4px 4px 0px 0px; margin-top: 15px; font-weight: normal; text-transform: none;
+}
+
+#IGNOREINOPKEYRECORDERKEYWORDANDLOGICALNAMEHOLDER{
+background: rgb(0, 102, 255); margin: 0; font-size: 14px !important; margin: 0; padding: 6px 8px; color: #fff; border-radius: 4px 4px 0px 0px; margin-top: 15px; font-weight: normal; text-transform: none;
+}
+
+#IGNOREINOPKEYRECORDERADDBUTTON{
+color: #fff; background: #337ab7; display: block; padding: 0; width: 62px; height: 30px; font-size: 12px; font-weight: 400; line-height: normal; text-align: center; touch-action: manipulation; cursor: pointer; user-select: none; border: 1px solid #2e6da4; border-radius: 3px; font-family: arial,sans-serif; margin: 8px auto 7px auto;
+}
+
+#IGNOREINOPKEYRECORDERTDPROPERTY{
+padding: 1px 10px;border: 1px solid #888;font-size: 13px !important; color: #3a3a3a; width:85%;
+}
+#IGNOREINOPKEYRECORDERTDPROPERTYWIDTHAUTO{
+padding: 1px 10px;border: 1px solid #888;font-size: 13px !important; color: #3a3a3a; width:auto;
+}
+
+#IGNOREINOPKEYRECORDERTDPROPERTYCENTER{
+padding: 1px 10px;border: 1px solid #888;font-size: 13px !important; color: #3a3a3a;vertical-align: middle; text-align: center;
+}
+
+#IGNOREINOPKEYRECORDERTDPROPERTY2{
+padding: 1px 10px; border: 1px solid rgb(136, 136, 136); color: rgb(58, 58, 58); width: auto; font-size: 13px !important;width: 85%;
+}
+
+#IGNOREINOPKEYRECORDERTDPROPERTY3{
+ border: 0px; outline: 0px; width: 100%; height: 24px;
+}
+
+#IGNOREINOPKEYRECORDERTDPROPERTY6{
+padding: 1px 10px;border: 1px solid #888;font-size: 13px !important; color: #3a3a3a; width:40%;
+}
+#IGNOREINOPKEYRECORDERTDPROPERTY4{
+padding: 1px 10px;border: 1px solid #888;font-size: 13px !important; color: #3a3a3a; text-align: center; vertical-align: middle;
+}
+
+.editboxclassenabledopkey{
+background-color:rgb(102, 255, 153)
+}

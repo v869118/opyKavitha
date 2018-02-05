@@ -1,0 +1,11 @@
+.htm 	text/html
+.html 	text/html
+.js 	application/javascript
+.css 	text/css
+.gif 	image/gif
+.jpg 	image/jpeg
+.jpeg 	image/jpeg
+.swf	application/x-shockwave-flash
+.pdf	application/pdf
+.txt	text/plain
+.jar	application/java-archive

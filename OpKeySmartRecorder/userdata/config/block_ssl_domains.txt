@@ -1,0 +1,5 @@
+addons.mozilla.org
+.*.addons.mozilla.org
+sb-ssl.google.com
+clients..google.com
+self-repair.mozilla.org

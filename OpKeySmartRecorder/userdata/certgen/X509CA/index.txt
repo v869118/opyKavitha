@@ -1,0 +1,9 @@
+V	280131103802Z		01	unknown	/C=IN/ST=UP/O=OpKey/OU=OpKey/CN=translate.googleapis.com
+V	280131103806Z		02	unknown	/C=IN/ST=UP/O=OpKey/OU=OpKey/CN=www.google.com
+V	280131103809Z		03	unknown	/C=IN/ST=UP/O=OpKey/OU=OpKey/CN=www.googleapis.com
+V	280131103811Z		04	unknown	/C=IN/ST=UP/O=OpKey/OU=OpKey/CN=www.gstatic.com
+V	280131103814Z		05	unknown	/C=IN/ST=UP/O=OpKey/OU=OpKey/CN=clientservices.googleapis.com
+V	280131103816Z		06	unknown	/C=IN/ST=UP/O=OpKey/OU=OpKey/CN=maps.googleapis.com
+V	280131103819Z		07	unknown	/C=IN/ST=UP/O=OpKey/OU=OpKey/CN=code.jquery.com
+V	280131103821Z		08	unknown	/C=IN/ST=UP/O=OpKey/OU=OpKey/CN=ssl.gstatic.com
+V	280131103824Z		09	unknown	/C=IN/ST=UP/O=OpKey/OU=OpKey/CN=csi.gstatic.com

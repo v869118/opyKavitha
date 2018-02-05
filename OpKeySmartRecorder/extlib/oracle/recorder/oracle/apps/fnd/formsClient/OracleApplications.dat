@@ -1,0 +1,36 @@
+# $Header: OracleApplications.dat 120.3 2006/08/22 13:19:25 mzasowsk ship $
+#
+# This is the path that Apps uses to find their icons.
+# We set ServerApp to OracleApplications in the .html file
+# and then it uses this as the directory to search for the icons.
+#
+OracleApplications.icons.iconpath=oracle/apps/media/
+
+# Fix for Bugs 5400236 and 5477047 
+# to get around font problem when using JDK 1.4 and 1.5
+# while client locale is 'Korean' or 'Chinese'
+#
+OracleApplications.fontMap.defaultFontname=dialog
+
+#
+# Additional classes used by AOL for the popup windows
+# This maps between the number (which needs to correspond to the C code)
+# and the actual class name.
+#
+oracle.classById.1000=oracle.apps.fnd.formsClient.ChoiceBoxMessenger
+oracle.classById.1001=oracle.apps.fnd.formsClient.EditBoxMessenger
+oracle.classById.1002=oracle.apps.fnd.formsClient.InfoBoxMessenger
+oracle.classById.1003=oracle.apps.fnd.formsClient.ResponseBoxMessenger
+oracle.classById.1004=oracle.apps.fnd.formsClient.TableBoxMessenger
+oracle.classById.1020=oracle.apps.fnd.formsClient.FlexWindowMessenger
+oracle.classById.1010=oracle.apps.fnd.formsClient.GenericClientMessenger
+
+#
+# Application level settings to control UI features
+#
+app.ui.lovButtons=true
+app.ui.requiredFieldVA=true
+#    The background color is specified as an RGB triple.
+app.ui.requiredFieldVABGColor=255,238,168
+
+

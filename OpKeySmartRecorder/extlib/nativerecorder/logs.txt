@@ -1,0 +1,2854 @@
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 143
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 143
+
+
+
+LOGGER: GetFocusedElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomation.GetFocusedElement()
+   at DesktopRecorderPOC.ElementsThread.GetFocusedElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 131
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: CreateCacheofElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80042001): Exception from HRESULT: 0x80042001
+   at Interop.UIAutomationCore.IUIAutomationElement.FindAll(TreeScope scope, IUIAutomationCondition condition)
+   at DesktopRecorderPOC.ElementsThread.CreateCacheofElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 249
+
+
+
+LOGGER: HookCallback    MESSAGE: System.Runtime.InteropServices.COMException (0x80042001): Exception from HRESULT: 0x80042001
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentProcessId()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.Runtime.InteropServices.COMException (0x80042001): Exception from HRESULT: 0x80042001
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 24
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 200
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 126
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 140
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 154
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 126
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 140
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 154
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 126
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 140
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 154
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 126
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 140
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 154
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: GetFocusedElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomation.GetFocusedElement()
+   at DesktopRecorderPOC.ElementsThread.GetFocusedElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 131
+
+
+
+LOGGER: GetFocusedElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomation.GetFocusedElement()
+   at DesktopRecorderPOC.ElementsThread.GetFocusedElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 131
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: GetFocusedElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomation.GetFocusedElement()
+   at DesktopRecorderPOC.ElementsThread.GetFocusedElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 131
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 143
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 143
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 114
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 143
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 143
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentBoundingRectangle()
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 56
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: GetFocusedElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomation.GetFocusedElement()
+   at DesktopRecorderPOC.ElementsThread.GetFocusedElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 131
+
+
+
+LOGGER: CraeteXpath    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationTreeWalker.GetParentElement(IUIAutomationElement element)
+   at DesktopRecorderPOC.XpathBuilder.CreateXpath(IUIAutomationElement element) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\XpathBuilder.cs:line 138
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: CreateCacheofElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomationElement.FindAll(TreeScope scope, IUIAutomationCondition condition)
+   at DesktopRecorderPOC.ElementsThread.CreateCacheofElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 249
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentBoundingRectangle()
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 56
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 112
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 211
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentBoundingRectangle()
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 79
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 126
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 140
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 154
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 211
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 211
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: GetFocusedElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomation.GetFocusedElement()
+   at DesktopRecorderPOC.ElementsThread.GetFocusedElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 131
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 211
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 211
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 211
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 34
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 34
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 34
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 211
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 211
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 211
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: GetFocusedElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomation.GetFocusedElement()
+   at DesktopRecorderPOC.ElementsThread.GetFocusedElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 131
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 112
+
+
+
+LOGGER: CraeteXpath    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomationTreeWalker.GetParentElement(IUIAutomationElement element)
+   at DesktopRecorderPOC.XpathBuilder.CreateXpath(IUIAutomationElement element) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\XpathBuilder.cs:line 138
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 231
+
+
+
+LOGGER: GetFocusedElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomation.GetFocusedElement()
+   at DesktopRecorderPOC.ElementsThread.GetFocusedElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 131
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 113
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomationElement.GetCurrentPattern(Int32 patternId)
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 126
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomationElement.GetCurrentPattern(Int32 patternId)
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 140
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomationElement.GetCurrentPattern(Int32 patternId)
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 154
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 23
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 171
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: CraeteXpath    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentClassName()
+   at DesktopRecorderPOC.XpathBuilder.CreateXpath(IUIAutomationElement element) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\XpathBuilder.cs:line 113
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 114
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 114
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentBoundingRectangle()
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 80
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentBoundingRectangle()
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 80
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 219
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 143
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 143
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 126
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 140
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 154
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: CreateCacheofElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80042001): Exception from HRESULT: 0x80042001
+   at Interop.UIAutomationCore.IUIAutomationElement.FindAll(TreeScope scope, IUIAutomationCondition condition)
+   at DesktopRecorderPOC.ElementsThread.CreateCacheofElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 249
+
+
+
+LOGGER: HookCallback    MESSAGE: System.Runtime.InteropServices.COMException (0x80042001): Exception from HRESULT: 0x80042001
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentProcessId()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 143
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 143
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 126
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 140
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 154
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 126
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 140
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 154
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 126
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 140
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 154
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 126
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 140
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 154
+
+
+
+LOGGER: CreateCacheofElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80042001): Exception from HRESULT: 0x80042001
+   at Interop.UIAutomationCore.IUIAutomationElement.FindAll(TreeScope scope, IUIAutomationCondition condition)
+   at DesktopRecorderPOC.ElementsThread.CreateCacheofElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 249
+
+
+
+LOGGER: HookCallback    MESSAGE: System.Runtime.InteropServices.COMException (0x80042001): Exception from HRESULT: 0x80042001
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentProcessId()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.Runtime.InteropServices.COMException (0x80042002): Exception from HRESULT: 0x80042002
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 34
+   at DesktopRecorderPOC.ElementsThread.CreateJsonData() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 200
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: HookCallback    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 207
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 143
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 143
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentBoundingRectangle()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 125
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentBoundingRectangle()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 125
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 144
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 144
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateXpath    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.XpathBuilder.CreateXpath(IUIAutomationElement element) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\XpathBuilder.cs:line 100
+
+
+
+LOGGER: CreateXpath    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.XpathBuilder.CreateXpath(IUIAutomationElement element) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\XpathBuilder.cs:line 100
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 127
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 141
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 155
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 169
+
+
+
+LOGGER: CreateXpath    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.XpathBuilder.CreateXpath(IUIAutomationElement element) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\XpathBuilder.cs:line 151
+
+
+
+LOGGER: CreateXpath    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.XpathBuilder.CreateXpath(IUIAutomationElement element) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\XpathBuilder.cs:line 151
+
+
+
+LOGGER: CreateXpath    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.XpathBuilder.CreateXpath(IUIAutomationElement element) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\XpathBuilder.cs:line 151
+
+
+
+LOGGER: CreateXpath    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.XpathBuilder.CreateXpath(IUIAutomationElement element) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\XpathBuilder.cs:line 151
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80042001): Exception from HRESULT: 0x80042001
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80042002): Exception from HRESULT: 0x80042002
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentBoundingRectangle()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 125
+
+
+
+LOGGER: HookCallback    MESSAGE: System.Runtime.InteropServices.COMException (0x80042001): Exception from HRESULT: 0x80042001
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentProcessId()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 210
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 127
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 141
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 155
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 169
+
+
+
+LOGGER: CreateElementProperty    MESSAGE: System.Runtime.InteropServices.COMException (0x80042001): Exception from HRESULT: 0x80042001
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 35
+
+
+
+LOGGER: CreateCacheofElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80042002): Exception from HRESULT: 0x80042002
+   at Interop.UIAutomationCore.IUIAutomationElement.FindAll(TreeScope scope, IUIAutomationCondition condition)
+   at DesktopRecorderPOC.ElementsThread.CreateCacheofElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 246
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 144
+
+
+
+LOGGER: CreateJsonData    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationValuePattern.get_CurrentValue()
+   at DesktopRecorderPOC.Hook.HookCallback(Int32 nCode, IntPtr wParam, IntPtr lParam) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\Hook.cs:line 144
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80070578): Invalid window handle. (Exception from HRESULT: 0x80070578)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
+
+
+
+LOGGER: CreateXpath    MESSAGE: System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentBoundingRectangle()
+   at DesktopRecorderPOC.XpathBuilder.CreateXpath(IUIAutomationElement element) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\XpathBuilder.cs:line 105
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateIDiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentAutomationId()
+   at DesktopRecorderPOC.IndexMaker.CreateIDIndex(IUIAutomationElement element, String id) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 73
+
+
+
+LOGGER: CreateNameiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentName()
+   at DesktopRecorderPOC.IndexMaker.CreateNameIndex(IUIAutomationElement element, String name) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 30
+
+
+
+LOGGER: CreateClassiNDEX    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentLocalizedControlType()
+   at DesktopRecorderPOC.IndexMaker.CreateClassIndex(IUIAutomationElement element, String classname) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\IndexMaker.cs:line 117
+
+
+
+LOGGER: CreateElementProperty    MESSAGE: System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at Interop.UIAutomationCore.IUIAutomationElement.get_CurrentBoundingRectangle()
+   at DesktopRecorderPOC.ElementPropertyBuilder.CreateElementProperty(String action, IUIAutomationElement element, IUIAutomationElement parentelement, String data) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementPropertyBuilder.cs:line 82
+
+
+
+LOGGER: GetFocusedElement    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomation.GetFocusedElement()
+   at DesktopRecorderPOC.ElementsThread.GetFocusedElement() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 131
+
+
+
+LOGGER: CraeteXpath    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomationTreeWalker.GetParentElement(IUIAutomationElement element)
+   at DesktopRecorderPOC.XpathBuilder.CreateXpath(IUIAutomationElement element) in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\XpathBuilder.cs:line 142
+
+
+
+LOGGER: getElment    MESSAGE: System.Runtime.InteropServices.COMException (0x80040201): An event was unable to invoke any of the subscribers (Exception from HRESULT: 0x80040201)
+   at Interop.UIAutomationCore.IUIAutomation.ElementFromPoint(tagPOINT pt)
+   at DesktopRecorderPOC.ElementsThread.getElment() in d:\OPkeyNativeRecorderCode\DesktopRecorderPOC\ElementsThread.cs:line 111
